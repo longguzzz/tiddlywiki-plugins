@@ -16,4 +16,5 @@
 1. 这个插件是在$:/plugins/sq/Stories的代码上加入了$:/plugins/ihm/tidgraph进行轻度魔改。
 2. 使用这个插件不一定要添加$:/plugins/sq/Stories，但是必须添加$:/plugins/ihm/tidgraph。加了$:/plugins/sq/Stories的话，右侧栏也能有同样的效果
 3. 要修改展示的深度，打开$:/plugins/longguzzz/OpenForest/ui/SideBar/Open，搜索maxdepth，修改引号里的数字就可以了。具体怎么用，参考插件$:/plugins/ihm/tidgraph
+
 相关插件具体参见 https://giffmex.org/stroll/stroll.html，和 https://ihm4u.github.io/tw5plugs/
